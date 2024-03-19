@@ -1,0 +1,28 @@
+{
+  "name": "carolgonzalez",
+  "version": "1.0.0",
+  "description": "Carolgonzalez is a Node.js module that provides a collection of utility functions for common tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/donnaallen9270894/carolgonzalez"
+  },
+  "dependencies": {
+	  "petrivany": "1.0.0",
+"selivanovpetr-os": "1.0.0",
+"donaldrodriguez-os": "1.0.0",
+"pp06": "1.0.0",
+"cell-potapovvlad": "1.0.0",
+"christopherlee-bit": "1.0.0",
+    "axios": "^0.24.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donnaallen9270894/carolgonzalez/issues"
+  },
+  "homepage": "https://github.com/donnaallen9270894/carolgonzalez#readme"
+}
